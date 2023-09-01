@@ -54,7 +54,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VCKIJFJD
 
 [Document2]
 DocumentPath=..\Integrated Library Footprints\Mosfet_Pcb.PcbLib
@@ -71,7 +71,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BXALPBHS
 
 [Generic_EDE]
 OutputDir=..\Integrated Library Outputs

@@ -30,8 +30,8 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
-LogFolderPath=
+OutputPath=..\Integrated Library Outputs
+LogFolderPath=..\Integrated Library Logs
 ManagedProjectGUID=
 IncludeDesignInRelease=0
 
@@ -72,6 +72,9 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XMBBXULR
+
+[Generic_EDE]
+OutputDir=..\Integrated Library Outputs
 
 [Generic_IntLibOptions]
 OldFormat=False

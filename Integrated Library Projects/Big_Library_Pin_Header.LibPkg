@@ -31,7 +31,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=..\Integrated Library Outputs
-LogFolderPath=
+LogFolderPath=..\Integrated Library Logs
 ManagedProjectGUID=
 IncludeDesignInRelease=0
 
